@@ -1,11 +1,19 @@
 {
-    "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2",
     "radio_stream_url": "https://julycast.be/8232/stream.mp3",
-    "now_playing_text": "MCF 98.7FM",
+    "now_playing_text": ""MCF 98.7FM",
     "enable_autoplay": true,
+    "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2",
     "ad_status": "1",
     "banner_ad_id": "ca-app-pub-9523725970329735/1582777730",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173000",
     "native_ad_id": "ca-app-pub-9523725970329735/3418501959",
-    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437642"
+    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437642",
+    "facebook_url": "https://www.facebook.com/kcfchinfo",
+    "instagram_url": "https://new-instagram-url.com",
+    "twitter_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "youtube_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "whatsapp_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "tiktok_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "linkedin_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "website_url": "https://www.youtube.com/@MutundweChristianFellowship/streamsm"
 }
