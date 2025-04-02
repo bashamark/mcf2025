@@ -4,19 +4,27 @@
     "twitter_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
     "website_url": "https://sites.google.com/view/mcfsermons/home",
     "youtube_url": "https://www.facebook.com/mutundwechristianfellowship",
-    "banner_ad_id": "ca-app-pub-3940256099942544/9214589741",
+    "banner_ad_id": "ca-app-pub-9523725970329735/1582777730",
     "facebook_url": "https://www.youtube.com/@MCFSermons/videos",
     "linkedin_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
     "native_ad_id": "ca-app-pub-9523725970329735/3418501959",
     "whatsapp_url": "https://eternallifetv.online.church/",
-    "instagram_url": "https://chat.whatsapp.com/BCfLuMnlKXDKFnd77y6w16",
+    "instagram_url": "https://chat.whatsapp.com/CpkeJidFGaH2kcl1UxOa9S",
     "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2",
-    "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
+    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437642",
     "enable_autoplay": true,
-    "now_playing_text": "MCF 98.7FM",
-    "second_stream_text": "Data Saver",
-    "radio_stream_url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3",
-    "stream_two_url": "https://26223.live.streamtheworld.com/ITRN.mp3",
-    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "interstitial_frequency_play_pause": 3
+    "interstitial_ad_id": "ca-app-pub-9523725970329735/2242968654",
+    "interstitial_frequency_play_pause": 3,
+    
+    "stream_one_url": "https://streams.radio.co/s79fbbb432/listen",
+    "stream_one_text": "MCF 98.7FM",
+    "stream_one_active": true,
+    
+    "stream_two_url": "https://gospelradio.256cloud.com/listen/mcf_casterfm/radio.mp3",
+    "stream_two_text": "MCF2018 (AAC+)",
+    "stream_two_active": true,
+    
+    "stream_three_url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3",
+    "stream_three_text": "MCF Satellite",
+    "stream_three_active": true
 }
