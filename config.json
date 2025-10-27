@@ -13,7 +13,7 @@
 "https://chat.whatsapp.com/KYJr6x7yjYiBgHrkrNi7do?mode=ems_wa_t",
     "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2",
     "app_open_ad_id": "ca-app-pub-9523725970329735/4458437642",
-    "stream_one_url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_have/transmiter.mp3",
+    "stream_one_url": "http://84.8.135.255/listen/mcf_casterfm/radio.mp3",
     "stream_two_url": "http://84.8.135.255/listen/mcf_casterfm/radio.mp3",
     "enable_autoplay": true,
     "stream_five_url": "https://stream.zeno.fm/yxevony7l29uv",
@@ -26,7 +26,7 @@
     "stream_three_text": "MCF 98.7 (mcfradio2018)",
     "stream_two_active": true,
     "interstitial_ad_id": "ca-app-pub-9523725970329735/2242968000",
-    "stream_four_active": false,
+    "stream_four_active": true,
     "stream_three_active": true,
     "interstitial_frequency_play_pause": 4
 }
